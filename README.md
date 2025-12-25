@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ### 3. 配置 DeepSeek API Key
 
-更新.env 文件，输出API密匙和选择的模型
+更新.env 文件，输入API密匙和选择的模型
 
 ### 4. 启动程序
 
